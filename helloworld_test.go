@@ -20,6 +20,8 @@ import (
 	"testing"
 )
 
+// Test methods
+
 func TestIndexHandler(t *testing.T) {
 	req, err := http.NewRequest("GET", "/", nil)
 	if err != nil {
