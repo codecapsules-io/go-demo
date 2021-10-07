@@ -13,7 +13,7 @@
 // limitations under the License.
 
 // [START gae_go111_app]
-/
+
 // Sample helloworld is an App Engine app.
 package main
 
