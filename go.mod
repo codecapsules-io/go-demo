@@ -1,3 +1,3 @@
-module example/hello
+module helloworld
 
-go 1.17
+go 1.11
